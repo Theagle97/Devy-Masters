@@ -190,7 +190,7 @@ If a team does not pay their dues by the designated date they are not eligible t
     <tr>
     <td>Passing</td>
     <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)</td>
-    <td>.04<br>-2<br>6<br>-4</td>
+    <td>.04<br>-2<br>4<br>2</td>
   0  </tr>
      <tr>
         <td>Rushing</td>
