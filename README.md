@@ -137,11 +137,16 @@ If a team does not pay their dues by the designated date they are not eligible t
 <br><br>
 
 ## __Section VI - Startup Draft__ ##
+
+- The start up will be divided within 3 drafts, the main startup, the startup rookie draft and the start up devy draft. During the main startup you can acquire picks for the startup rookie and devy draft.
+
+### Main Startup###
+- The main startup will be 35 rounds
 - Snake format (1st to 12th then 12th to 1st).
 - The draft will be untimed.
 - Trading draft picks is allowed during the startup draft.
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them. Missing their pick is defined as going a 24 hour period while on the clock. If this happens multiple times a replacement owner will be found.
-
+- During the main startup you can pick the next up pick for the rookie draft by picking any kicker. To pick up the next up pick for the devy draft you select any DL.
 <br><br>
 
 ## __Section VII - Yearly Draft__ ##
