@@ -200,7 +200,7 @@ If a team does not pay their dues by the designated date they are not eligible t
       <tr>
         <td>Receiving</td>
         <td>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)<br>Each Reception (REC) (Tight End Premium)</td>
-        <td>0.1<br>6<br>2<br>.5</td>
+        <td>0.1<br>6<br>2<br>1 (.5)</td>
       </tr>
       <tr>
         <td>Miscellaneous </td>
