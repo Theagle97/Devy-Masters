@@ -79,7 +79,7 @@ TBD
 ## __Section II - League Dues__ ##
 
 ### TeamStake ###
-- The dues will be paid through teamstake.com
+- The dues will be paid through Teamstake
 
 ### Entry Fee ###
 - The Entry Fee for the league is $25 per season. With two seasons required upfront. 
