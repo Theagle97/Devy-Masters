@@ -155,7 +155,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - The rookie startup will be as long as how many picks got picked in the main startup
 
 ### Devy Startup ###
-- The Devy startup will be as long as how many picks got picked in the main startup
+- The Devy startup will be as long as how many picks got picked in the main startup, with a maximum of 7 rounds
 <br><br>
 
 ## __Section VII - Yearly Draft__ ##
